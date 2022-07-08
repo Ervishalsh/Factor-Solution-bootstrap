@@ -1,0 +1,64 @@
+.logo {
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.manu-item-text {
+  font-weight: bold;
+}
+
+.carousel-slide-img {
+  height: 80vh;
+}
+
+
+.social-icons .social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  background-color: #51606e;
+  color: #fff;
+  border-radius: 100%;
+  font-size: 1.2rem;
+  margin-right: 1.2rem;
+}
+
+.social-icons .social-icon:last-child {
+  margin-right: 0;
+}
+
+.social-icons .social-icon:hover {
+  background-color: #bd5d38;
+}
+
+
+.contact-bg {
+  background-color: #F3F3F3;
+}
+
+/* .input-box{
+    position: relative;
+  }
+  
+  .input-box i {
+    position: absolute;
+    right: 13px;
+    top:15px;
+    color:#ced4da;
+  
+  }
+  
+  .form-control{
+  
+    height: 50px;
+    background-color:#eeeeee69;
+  }
+  
+  .form-control:focus{
+    background-color: #eeeeee69;
+    box-shadow: none;
+    border-color: #eee;
+  }
+   */
